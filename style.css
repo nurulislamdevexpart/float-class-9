@@ -1,0 +1,75 @@
+.heder{
+height: 100px;
+background-color: rgb(238, 131, 59);
+}
+
+.blog{
+    width: 60%;
+    background-color: rgb(49, 190, 72);
+    height: auto;
+    float: left;
+    text height: 1.5;
+}
+
+.contact{
+    float: right;
+    width: 40%;
+    height: auto;
+    background-color: rgb(212, 209, 221);
+
+}
+.wrapper {
+    overflow: hidden;
+}
+
+.i1, .i2, .i3 {
+    float: left;
+    width: 33.3333%;
+    height: auto;
+}
+
+.i1 {
+    background-color: rgb(240, 178, 44);
+}
+
+.i2 {
+    background-color: rgb(241, 8, 28);
+}
+
+.i3 {
+    background-color: rgb(184, 204, 3);
+}
+
+.b1, .b2, .b3, .b4 {
+    width: 25%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+
+}
+.threebox{
+    overflow: hidden;
+}
+
+.b1{
+    background-color: gold;
+}
+.b2{
+    background-color: blueviolet;
+}
+.b3 {
+    background-color: aqua;
+}
+.b4{
+    background-color: blueviolet;
+}
+
+.footer{
+height: 100px;
+background-color: rgb(155, 103, 103);
+
+}
+.container{
+    overflow: hidden;
+}
